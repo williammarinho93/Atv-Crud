@@ -14,6 +14,7 @@ router.get('/items', (req, res) => {
 // Exemplo de rota POST
 router.post('/items', (req, res) => {
     // Esse espaço você vai colocar o código para criar uma nova tarefa.
+    // A tarefa deve conter "name" e "description".
     
 });
 
